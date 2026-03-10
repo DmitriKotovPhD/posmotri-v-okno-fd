@@ -13,7 +13,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   letter-spacing: 0;
   background-color: #1b1919;
@@ -61,7 +61,7 @@ ol {
   color: inherit;
   border: 1px solid #fff;
   background-color: transparent;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 100%;
@@ -199,7 +199,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 100%;
@@ -210,6 +210,7 @@ ol {
 }
 
 .content__video-card-description {
+  font-weight: 400;
   font-size: 18px;
   line-height: 16.2px;
   overflow: hidden;
@@ -234,7 +235,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -279,7 +280,7 @@ ol {
   width: 225px;
   padding-top: 2.5px;
   padding-bottom: 2.5px;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -339,7 +340,7 @@ ol {
 }
 
 .title {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 94%;
