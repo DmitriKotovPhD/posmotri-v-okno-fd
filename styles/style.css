@@ -216,7 +216,6 @@ ol {
   line-height: 16.2px;
   overflow: hidden;
   max-height: 3em;
-  display: block;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   line-clamp: 3;
